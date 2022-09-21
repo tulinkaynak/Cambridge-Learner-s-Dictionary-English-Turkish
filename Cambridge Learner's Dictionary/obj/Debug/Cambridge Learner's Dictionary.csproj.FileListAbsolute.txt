@@ -1,0 +1,17 @@
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Cambridge Learner's Dictionary.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Cambridge_Learner_s_Dictionary.Form1.resources
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Cambridge_Learner_s_Dictionary.Properties.Resources.resources
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Cambridge Learner's Dictionary.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Cambridge Learner's Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\bin\Debug\Cambridge Learner's Dictionary.exe.config
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\bin\Debug\Cambridge Learner's Dictionary.exe
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\bin\Debug\Cambridge Learner's Dictionary.pdb
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Cambridge Learner's Dictionary.exe
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Cambridge Learner's Dictionary.pdb
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Interop.SpeechLib.dll
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\obj\Debug\Cambridge Learner's Dictionary.csproj.ResolveComReference.cache
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\bin\Debug\kelimeler\pigeon.png
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\bin\Debug\kelimeler\pineapple.png
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\bin\Debug\kelimeler\lightning.png
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\bin\Debug\kelimeler\owl.png
+C:\Users\asus\Desktop\Cambridge Learner's Dictionary\Cambridge Learner's Dictionary\bin\Debug\kelimeler\peach.png
